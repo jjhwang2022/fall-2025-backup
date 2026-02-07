@@ -546,20 +546,15 @@ Chronic epigastric discomfort
 
 ## Diaphragm and Posterior Abdominal Wall
 
-![image.png](https://touro.instructure.com/courses/153399/files/13656197/preview)
-
+![[Pasted image 20260207150451.png]]
 The diaphragm is a continuous sheet of muscle and has attachments to the sternum, ribs, and lumbar spine. The lumbar or posterior portion of the diaphragm attaches to the lumbar spine via the crura (right and left crus). The right and left crura are muscular bands that attach to the anterior longitudinal ligament of the spine, forming the aortic hiatus. The diaphragm also has aponeurotic arches bilaterally, the medial and lateral arcuate ligaments, that provide support and attachment to the spine and ribs. The medial arcuate ligament begins from the transverse process of the L1 vertebra, coursing over the psoas major muscle, and attaching directly to the crus. The lateral arcuate ligament spans from the 12th rib, courses over the quadratus lumborum muscle to the transverse process of the L1 vertebra. 
-
-![image.png](https://touro.instructure.com/courses/153399/files/13377813/preview)
-
+![[Pasted image 20260207150501.png]]
 The esophagus passes through the diaphragm at the T10 level along with the anterior and posterior vagal trunks and the left esophageal vessels. It is covered in an adventitial fascial tissue that becomes more organized and becomes the phreno-esophageal ligament that tethers the esophagus to the diaphragm. This ligament has an upper portion and a lower portion attaching the esophagus and stomach to the esophagus.
 
 The diaphragm also has a band of skeletal muscle that attaches to the smooth muscle of the duodenum known as the suspensory ligament of the diaphragm (the Ligament of Treitz). This band is responsible for widening the lumen of the duodenum allowing for food passage.  Since it contracts with breath, respiration plays a role in the peristalsis of the duodenum.
 
 ### Gastroesophageal junction (GE) and lower esophageal sphincter (LES)
-
-![image.png](https://touro.instructure.com/courses/153399/files/13377818/preview)
-
+![[Pasted image 20260207150509.png]]
 Externally, the right side of the esophagus is continuous with the lesser curvature of the stomach and the left side with the greater curvature. Internally, the change between the esophagus is difficult to visualize but can be seen as a zig zag line known as the “Z-line” and represents the change between non-keratinized squamous cell epithelium and columnar epithelium.
 
 The esophageal sphincter is not a specific structure, but a combination of physiological and anatomical features. At the GE junction there are several mechanisms that prevent reflux of gastric contents into the esophagus. One of these is a thickened, tonically contracted band of circular muscle reinforced by the musculature of the right crus of the diaphragm, “clasp-like” fibers on the right side of the stomach, and “sling-like fibers'' on the left side.  This specialized musculature creates a high-pressure zone creating an air and fluid seal between stomach and esophagus.
@@ -595,11 +590,8 @@ Splenorenal ligament: Connects spleen to left kidney - contains part of the sple
 Gastrosplenic ligament: Connects stomach to spleen - contains the splenic, short gastric, and proximal left gastro-omental artery.
 
 Peritoneal folds: raised single layer peritoneum coursing over blood vessels or other structures i.e., ureter.
-
-![image.png](https://touro.instructure.com/courses/153399/files/13377827/preview)
-
-![image.png](https://touro.instructure.com/courses/153399/files/13377829/preview)
-
+![[Pasted image 20260207150521.png]]
+![[Pasted image 20260207150554.png]]
 ## Innervation of the Abdomen
 
 The abdomen is richly innervated by visceral afferent nerves, which are part of the autonomic nervous system.   These afferent nerves can be organized into somatic and visceral groups.  Somatic afferents refer to the innervation of the abdominal wall and peritoneum which arise from the 6-12 intercostal nerves, ilioinguinal, and iliohypogastric nerves.  The visceral nerves are exclusively autonomic and consist of neurons from the sympathetic trunk and the vagus nerve.  The sympathetic afferents will convey visceral nociception, while parasympathetic afferents carry neurons that are responsible for hunger, satiation, and nausea.
@@ -634,7 +626,7 @@ Test yourself: **trace out the blood supply of the celiac trunk using the follo
 |Right gastro-omental|Esophageal branches              Cystic|
 |Common hepatic|Superior pancreaticoduodenal|
 
-## ![image.png](https://touro.instructure.com/courses/153399/files/13378004/preview)
+![[Pasted image 20260207150609.png]]
 
 **Do not distribute this photo - not for public use**
 
@@ -642,4 +634,662 @@ Test yourself: **trace out the blood supply of the celiac trunk using the follo
 
 The stomach and lower esophagus contain a rich network of lymphatic tissue.  At the level of the lower esophagus and upper stomach the drainage flows into the thorax, while the nodes of the lower stomach and pylorus follow the blood supply of the pancreas and duodenum.  The diaphragm below shows many named groups of nodes in this area and are important for surgical resection of the stomach and other disease processes. (you will not be tested on the names or locations of the nodes!)
 
-![image.png](https://touro.instructure.com/courses/153399/files/13377832/preview)
+![[Pasted image 20260207150628.png]]
+
+Question 1
+
+The esophagus passes through the diaphragm at which spinal segment?
+
+Group of answer choices
+
+L1
+
+T7
+
+T8
+
+T12
+
+**T10**
+
+Question 2
+
+Which anatomical structure connects the diaphragm to the duodenum, enabling respiratory motion to assist peristalsis at the duodenojejunal junction?
+
+Group of answer choices
+
+Lateral arcuate ligament
+
+**Ligament of Treitz**
+
+Left crus of the diaphragm
+
+Peritoneal ligament
+
+Phrenoesophageal ligament
+
+Question 3
+
+Which of the following anatomical structures assists in reinforcing the circular band of muscle at the gastroesophageal junction?
+
+Group of answer choices
+
+Lateral arcuate ligament
+
+Peritoneal ligament
+
+**Right crus of the diaphragm**
+
+Phrenoesophageal ligament
+
+Left crus of the diaphragm
+
+# Physiology GI COAR
+
+Gastric reflux occurs physiologically but does not usually result in mucosal injury. This is because various gastrointestinal motility and secretory mechanisms protect the esophageal mucosa from damage or minimize the frequency and/or severity of reflux events.  The development of GERD fundamentally reflects an imbalance between these defense mechanisms and pathophysiological factors exacerbating gastric reflux episodes. The clinical presentation of the patient in this case study reflects this imbalance.
+
+**Eight gastrointestinal motility and secretory mechanisms that defend the esophageal mucosa from damage include:**
+
+- Lower esophageal sphincter tone
+    - intrinsic tone creates positive pressure gastroesophageal barrier
+- Swallowing reflex (primary esophageal peristalsis)
+    - primary esophageal peristalsis clears refluxed material
+- Secondary esophageal peristalsis
+    - periodically clears residual reflux material
+- Esophageal mucosa secretory activities
+    - mucosal epithelial tight junctions; epithelial membrane H+ extrusion & HCO3- titration
+- Salivary secretions
+    - acid buffering and dilution actions
+- Receptive relaxation
+    - stomach region relaxation in response to gastric filling minimizes retrograde gastric pressure
+- Gastric migrating motility complex
+    - prevents accumulation of acid and cellular debris in stomach during fasting period, which reduces acidity and volume of refluxed material and moderates retrograde pressure
+- Gastric acid regulation
+    - fasting acid secretion inhibition and postprandial acid secretion regulation moderates acidity of refluxed material
+
+Each defense mechanism is regulated physiologically:
+
+- Lower esophageal sphincter tone- intrinsic myogenic tone with transient inhibitory relaxation via vagus nerve involving neurocrine regulation by VIP/NO mediators
+- Swallowing reflex- voluntary motor control in coordination with vagal/glossopharyngeal involuntary neural regulation involving medullary integration
+- Secondary esophageal peristalsis- enteric neural control via mucosal mechano-sensory receptors
+
+- Esophageal mucosa secretory activities- epithelial acid secretory channels, Na+/H+ exchanger; Cl-/HCO3- exchanger; activity regulated in response to chemo-sensory receptor to luminal acid levels
+- Salivary secretions- dominant parasympathetic autonomic regulation via facial/glossopharyngeal cranial nerves with minor sympathetic regulation via regulation of salivary gland blood flow; cephalic and local mechano- and chemo-sensory receptor regulation
+- Receptive Relaxation- regulated in parallel with LES mechanism
+- Gastric Migrating Motility Complex- endocrine regulation via motilin secreted from small intestinal APUD cells
+- Gastric acid regulation- neural: vagus; endocrine: gastrin; paracrine: histamine/somatostatin multi-level regulation
+
+The pathophysiological circumstances that can cause dysregulation of the mechanisms and increase the risk of developing GERD include:
+
+- Lower esophageal sphincter tone- impairment: excessive transient LES relaxations e.g. belching; anatomic trauma; idiopathically low or loss of intrinsic myogenic tone; secondary factors such as obesity/pregnancy increases retrograde pressure on junction
+- Swallowing reflex- impairment: deglutition disorders
+- Secondary esophageal peristalsis- impairment: mucosal epithelial damage
+
+- Esophageal mucosa secretory activities- impairment: mucosal epithelial damage
+- Salivary secretions- impairment: salivary gland related disorder, Sjogren’s; cystic fibrosis; secondary conditions such as dehydration and smoking; medications affecting autonomic function, etc.
+- Receptive Relaxation- impairment: parasympathetic disorders; medications affecting autonomic function, etc.
+- Gastric Migrating Motility Complex- impairment: small intestinal disorders/resection; gastroparesis; medications and dietary factors affecting gastric emptying and pyloric sphincter tone
+
+Our patient has clinical aspects of his case that are suggestive of pathophysiological factors exacerbating gastric reflux episodes and/or impaired defense mechanisms that contribute to the imbalance causing his GERD. Examples include:
+
+- Chronic back pain: pain response includes heightened sympathetic state, which inhibits GI motility and secretory functions
+- Dietary habits: “spicy foods”; high caffeine and EtOH intake, predominant fast-food diet (high fat/sodium) stimulate acid secretion and slow gastric emptying rate
+- Smoking: reduces salivary secretions
+
+Eating increases frequency of transient lower esophageal sphincter (LES) relaxation events during swallowing...raising potential for reflux of gastric contents; gastric filling increases retrograde pressure on esophageal-gastric junction; eating stimulates acid secretion, which increases volume and acidity of refluxed material; ingested material composition may slow rate of gastric emptying resulting in increased reflux events...most likely related to patient’s fast food diet.
+
+Question 1
+
+Which of the following conditions most directly contributes to **lower esophageal sphincter (LES) dysfunction**, increasing the risk of GERD?
+
+Group of answer choices
+
+**Excessive transient LES relaxations**
+
+Sjogren's syndrome
+
+Small intestinal resection
+
+Deglutition disorders
+
+Gastroparesis
+
+Question 2
+
+Impairment of the **swallowing (deglutition) reflex** increases GERD risk by interfering with which protective mechanism?
+
+Group of answer choices
+
+Receptive relaxation
+
+Secondary esophageal peristalsis
+
+**Coordinated esophageal clearance after swallowing**
+
+Gastric migrating motility complex
+
+Salivary excretion of bicarbonate
+
+Question 3
+
+A reduction in salivary secretions increases GERD severity due to decreased neutralization of refluxed acid. Which of the following is **most strongly associated** with impaired salivary secretion?
+
+Group of answer choices
+
+Genetic bicarb exchange disorderss
+
+Gastroparesis
+
+**Sjogren's syndrome**
+
+Pregnancy
+
+Obesity
+
+# Assessment/Plan GI COAR
+
+While working up your patient- you should note if there are any **Alarm features** (red flags) — Alarm features are suggestive as an indication for direct endoscopy-concern for gastrointestinal malignancy-include:
+
+- New onset of dyspepsia in patient ≥60 years
+- Evidence of gastrointestinal bleeding (hematemesis, melena, hematochezia, occult blood in stool)
+- Iron deficiency anemia
+- Anorexia
+- Unexplained weight loss
+- Dysphagia (difficulty swallowing)
+- Odynophagia (painful swallowing)
+- Persistent vomiting
+- Gastrointestinal cancer in a first-degree relative
+
+**Assessment:** Based on our HPI, ROS, PE and review of our Differential Diagnoses our patient is likely presenting with **GERD**.
+
+Our patient presents with:
+
+- Heartburn >4 months
+- Epigastric pain worse after eating spicy foods
+- Partial relief with antacids (Tums)
+- Sour taste in mouth
+- Chronic dry cough
+
+With the following risk factors:
+
+- Smoking 
+- Alcohol use
+- Energy drink intake/high caffeine
+- NSAID overuse
+- Overweight with BMI 27
+- Poor overall diet
+
+**Plan:**
+
+1. Rule in/out Alarm symptoms and screening for Barrett's esophagus
+
+Per UpToDate:
+
+|   |
+|---|
+|**Clinical features**|
+|**Alarm symptoms** suggestive of gastrointestinal malignancy|
+|- New-onset dyspepsia in patient ≥60 years old<br>- Evidence of gastrointestinal bleeding (hematemesis, melena, hematochezia, occult blood in stool)<br>- Iron deficiency anemia<br>- Anorexia<br>- Unexplained weight loss<br>- Dysphagia<br>- Odynophagia<br>- Persistent vomiting<br>- Gastrointestinal cancer in a first-degree relative|
+|**Screening for Barrett's esophagus***|
+|Chronic GERD (at least 5 years of persistent symptoms) plus 3 of the following additional risk factors for Barrett's esophagus*:<br><br>- Age >50 years<br>- Male sex<br>- Non-Hispanic white individuals<br>- Obesity<br>- Tobacco use (past or current)<br>- First-degree relative with Barrett's esophagus and/or esophageal adenocarcinoma|
+|Luminal abnormality on abdominal imaging of upper gastrointestinal tract|
+
+Upper endoscopy is indicated in individuals with these features. However, most individuals with typical reflux-like symptoms of heartburn or regurgitation do not need initial endoscopy.
+
+Our patient did not exhibit any of these features. If he had, we would have wanted to get a Gastrointestinal (GI) Referral for esophagogastroduodenoscopy (EGD). 
+
+2. **Treatment**: For patients who do not need to progress to EGD as initial management, treatment can be based on symptoms severity, frequency and timing. 
+
+Symptoms Frequency:
+
+- Intermittent: <2 episodes per week
+- Frequent: 2 or more episodes per week
+
+Symptom severity is considered mild or moderate/severe based on how their symptoms impair quality of life 
+
+GERD is often a multifactorial process and education, and counseling should be had and should include the potential underlying cause (pathophysiology), role of self-management, and lifestyle modifications to control symptoms. 
+
+**Lifestyle changes** for initial management of mild acid reflux could include:
+
+- Discussion on weight loss
+- Elevating the head of the bed (6-8 inches) may be helpful to some patients (e.g., overweight or night heartburn)
+- Avoid acid reflux-inducing food (e.g., excessive caffeine, chocolate, alcohol, peppermint, fatty foods). Dietary change may not be helpful to all patients. See below triggers
+- Chew gum or use oral lozenges to increase saliva production. Saliva neutralizes refluxed acid
+- Quit smoking (smoking reduces saliva in the mouth and throat)
+- Avoid late meals
+- Avoid tight fitting clothing
+
+**Avoid Common triggers and modulators of reflux-like symptoms***
+
+|   |   |
+|---|---|
+|Category|Trigger or modulator|
+|**Eating behaviors**|- Eating too fast<br>- Large portions<br>- Eating past satiety<br>- Eating too close to bedtime|
+|**Dietary factors**|- Fatty/fried foods<br>- Spicy foods (capsaicin)<br>- Excess alcohol<br>- Excess coffee<br>- Carbonated beverages<br>- Patient-specific trigger foods|
+|**Lifestyle**|- Weight gain<br>- Tight garments<br>- Belts<br>- Tobacco use<br>- Excessive exercise|
+|**Medications**|- Anti-inflammatory medicines<br>- Antihypertensives<br>- Erectile dysfunction medicines|
+|**Emotional or behavioral factors**|- High-stress environment<br>- Hypervigilance|
+
+* In most instances, only some of these factors are pertinent to an individual patient. Clinicians should assess for specific triggers and individualize recommendations to avoid guidance
+
+that is overly restrictive or overwhelming.
+
+**Make an Individualized Plan**
+
+Consider use of an individualized plan as noted below from UpToDate.
+
+Individualized plan for lifestyle changes to manage reflux-like symptoms
+
+|   |   |   |   |
+|---|---|---|---|
+|**Healthy eating**|**Night-time behaviors**|**Exercise**|**Medications**|
+|Add in fruits or vegetables at each meal (avoid citrus).<br><br> Use plant-based fats over animal fats.<br><br> Opt for whole grains such as whole wheat, brown rice, oats, teff, millet, quinoa.<br><br> Swap out animal proteins for plant-based options, eg, lentils, pulses, seeds, nuts, and legumes.<br><br> Serve smaller portion sizes to help you reduce meal volume.<br><br> Use smaller plates and utensils to feel satisfied with smaller amounts.<br><br> Choose water or tea over high-sugar drinks.<br><br> Eliminate carbonated beverages and caffeine if they trigger symptoms.<br><br> Enjoy small desserts a few days in a week or substitute with fruit to finish a meal.<br><br> Limit alcohol.<br><br> Schedule meals to avoid grazing.|Finish eating approximately 3 hours before lying down.<br><br> Wear loose clothing to reduce pressure around the belly.<br><br> Practice deep breathing or other stress reduction techniques before sleep.<br><br> Avoid alcohol before bed.<br><br> Elevate head of bed when sleeping, ideally using a wedge pillow or by adjusting mattress or head of bed.<br><br> Lie on left side to minimize reflux.|Accumulate 20 to 30 minutes of physical activity on most days of the week such as walking, swimming, dancing, exercise classes, or cleaning.<br><br> Add in 2 days of strength and flexibility training such as weight training, yoga, Pilates, etc.<br><br> Incorporate activity into lifestyle. If you track steps, aim for >7000 to 10,000 steps on most days (5 to 8 km).|___________________<br><br> ___________________<br><br> ___________________<br><br> ___________________<br><br> ___________________|
+
+Used with permission of Royal College of General Practitioners, from: Kahrilas PJ, Anastasiou F, Barrett K, et al. Assessment and treatment of reflux-like symptoms in the community: A multidisciplinary perspective. Brit J Gen Practice 2024; 72:232. Copyright © 2024 Royal College of General Practitioners; permission conveyed through Copyright Clearance Center, Inc.
+
+**Behavior Changes**: Focus on lifestyle changes also include behavioral changes such as:
+
+- Avoiding late meals
+    - 3 hrs between a meal and lying down for bed
+- Sleeping in the left lateral decubitus position
+    - gravity keeps gastric contents away from the gastroesophageal junction as the stomach now lies below the esophageal junction
+- elevating the head of the bed
+
+Have discussions around weight loss, smoking cessation, avoidance of triggers as noted above, including alcohol.
+
+Consider work on abdominal breathing exercises, referral to nutritionist, OMM.
+
+**Initial Pharmacotherapy**
+
+Initial empiric management of adults with reflux-like symptoms
+
+![Image](https://www.uptodate.com/services/app/contents/graphic/view/PC/145885/Intempmngadltreflxsymp.png)
+
+Antacids are used for short term relief of acid reflux - e.g., Tums, Mylanta
+
+1. 1. MOA: They act by neutralizing stomach acid – do not prevent GERD so best for relief of MILD GERD symptoms.
+    2. Major side effects include belching/bloating (bicarbonate), constipation (Al), diarrhea (Mg).
+    3. Excessive use can cause calcium-related derangements
+
+Histamine antagonist (H2 blockers) - e.g., Cimetidine (Tagamet)
+
+1. 1. They reduce production of stomach acid by inhibiting H2 receptor (a Gs-coupled receptor) activity, leading to a decrease in cAMP pathway and a decrease in proton pump translocation to the parietal cell apical membrane. They are less effective than PPI for continuous effect.
+    2. Major side effects for cimetidine include potential drug interactions (mostly CYP-based), gynecomastia (increased prolactin), galactorrhea (increased prolactin).
+    3. Note rare but severe SE of mental status changes, esp. in special populations: increased risk in elderly or renal/hepatic dysfunction
+    4. Of note, they are metabolized by cytochrome P450 in the live and cimetidine is the most potent inhibitor of the P450 system and can lead to significant drug interactions including amiodarone, chloroquine, hydroxychloroquine, glipizide, itraconazole, and many others.  
+
+For Moderate to severe symptoms consider Proton pump inhibitors (PPI)
+
+Proton pump inhibitors (PPI)-e.g., Omeprazole
+
+1. 1. MOA: They act by irreversible binding to H+/K+ -ATPase pump, which mediates H+ release to the gastric lumen. Often recommended for trial of 6-8 wks.
+    2. Major side effects include GI infections (e.g., C. diff due to altered gut flora), reduced drug absorption (i.e., acid-dependent drugs), and reduced B12 absorption.
+
+**If symptoms are not relieved, what would you recommend next?**
+
+1. - Confirm PPI being taken on an empty stomach (food decreases bioavailability)
+    - An alternative PPI may be used
+        - Rationale: for “fast metabolizers” (CYP2C19 variant), omeprazole may be metabolized too quickly to reach therapeutic concentrations; consider e.g., esomeprazole or rabeprazole, which are more independent of CYP2C19 activity
+
+- - Dosage or frequency of PPI may be increased
+    - Trial of Vonoprazan – see below
+    - Consider testing for H. pylori and treating if confirmed.
+    - Further testing to confirm the diagnosis
+    - Surgical procedure may be considered
+    - For more, see e.g., [PPI Refractory Gastroesophageal Reflux DiseaseLinks to an external site.](https://pmc.ncbi.nlm.nih.gov/articles/PMC6260943/ "Link")
+
+****Recent update in GERD management****
+
+From UpToDate
+
+- Vonoprazan for nonerosive gastroesophageal reflux disease (August 2024)
+
+“[VonoprazanLinks to an external site.](https://www.uptodate.com/contents/vonoprazan-drug-information?search=gerd&topicRef=2258&source=see_link), a potassium-competitive acid blocker, rapidly heals erosive esophagitis in patients with gastroesophageal reflux disease (GERD), but its effectiveness for treating nonerosive GERD has been uncertain. In a randomized trial in 772 adults with frequent reflux-like symptoms and normal upper endoscopy, vonoprazan 10 and 20 mg daily reduced heartburn symptoms more effectively than placebo (45 and 44 percent versus 28 percent heartburn-free days, respectively) [[1Links to an external site.](https://www.uptodate.com/contents/vonoprazan-for-nonerosive-gastroesophageal-reflux-disease/abstract/1)]. A trial that compared on-demand vonoprazan with placebo reported similar findings [[2Links to an external site.](https://www.uptodate.com/contents/vonoprazan-for-nonerosive-gastroesophageal-reflux-disease/abstract/2)]. Based on these results, the US Food and Drug Administration approved vonoprazan for the treatment of nonerosive GERD in July 2024. However, because vonoprazan is expensive and has not been directly compared with proton pump inhibitors (PPIs) in this setting, we continue to suggest PPIs for initial management of nonerosive GERD.”
+
+![[Pasted image 20260207151136.png]]
+
+# Radiology GI COAR
+
+There are limited radiographic exams associated with GERD
+
+Double contrast barium swallow studies are limited in the diagnosis of GERD. Example:
+![[Pasted image 20260207151208.png]]
+*Radiology Key
+
+This type of study is more sensitive in detecting stricture and characterizing morphology of hiatal hernias. 
+![[Pasted image 20260207151213.png]]
+Stricture *UpToDate
+
+Often an Esophagogastroduodenoscopy (EGD) is used to further evaluate
+![[Pasted image 20260207151226.png]]
+*Haymarket
+![[Pasted image 20260207151243.png]]
+Endoscopic image of the gastroesophageal junction (GEJ) using the high-definition (HD) endoscopy. *[Endoscopic Advances in the Diagnosis and Management of Gastroesophageal Reflux DiseaseLinks to an external site.](https://www.mdpi.com/1648-9144/60/7/1120 "Link")
+
+![[Pasted image 20260207151254.png]]
+
+Endoscopic views of esophagitis grades. (A) Grade A—1 or more mucosal breaks (arrow) no longer than 5 mm that do not extend between the tops of two mucosal folds. (B) Grade B—1 or more mucosal breaks (arrow) longer than 5 mm that do not extend between the tops of two mucosal folds. (C) Grade C—1 or more mucosal breaks (arrows) that are continuous between the tops of 2 or more mucosal folds, but involve less than 75% of the circumference. (D) Grade D—1 or more mucosal breaks (arrows) that involve at least 75% of the esophageal circumference. *[GERD: A practical approachLinks to an external site.](https://www.ccjm.org/content/87/4/223 "Link")
+
+# Osteopathic Considerations (ABCS) GI COAR
+
+Remember that we treat _people_ as individuals, NOT clinical conditions. Therefore, there is no specific technique(s) for a specific diagnosis including epigastric pain. Each patient, regardless of the clinical diagnosis, requires a structural diagnosis to determine what treatment best suits their clinical presentation.
+
+There is no algorithm for the osteopathic treatment of patients since no one person will have the same constellation of musculoskeletal abnormalities. We can, however, consider each patient in the context of the A (Autonomics), B (Biomechanics), C (Circulation), S (Screening) as a way to begin to discover where we may want to aim our diagnosis and treatment.
+
+_Optional Reading: Foundations of Osteopathic Medicine, 4th edition, Chapter 28, Part I. Abdominal Region pg 689-695_
+
+## Treatment Goals of OMT in a patient with abdominal complaints
+
+- Address viscerosomatic reflexes (TART reflecting homeostatic disturbances)
+- Decrease pain
+- Decrease segmental facilitation (somatovisceral responses)
+- Enhance circulation
+- Improve organ function
+- Decrease allostatic load promoting better health
+
+## A (Autonomics)
+
+**_Parasympathetics_**
+
+■ The vagus nerve supplies the parasympathetic control to the GI tract all the way to the transverse colon. Treatment of the OA region may be helpful in addressing parasympathetic tone.
+
+**_Sympathetics_**
+
+- T3-6-Esophagus
+
+- T5-T9- Stomach, Liver, Gallbladder, Spleen, Pancreas, Duodenum
+- Increased sympathetic tone to the esophagus and stomach causes an inhibitory effect on GI muscles and an inhibitory influence over mucosal secretions
+    - Blood flow regulation occurs via vasoconstriction
+
+B (Biomechanics)
+
+Think about any biomechanical restriction around the organ. Be sure to check for fascial restriction of the:
+
+■ Stomach
+
+■ Esophagus
+
+■ Thoracic diaphragm (through which the esophagus must travel)
+
+- Anterior aspect at the costal margins
+- Rib 6-12 motion
+- 12th rib and posterior attachments of the diaphragm (arcuate ligaments and crura- over the iliopsoas and quadratus lumborum)
+- Attachments at L1-L3
+
+Consideration for any abdominal surgical scars (fascial restriction)
+
+Also assess for fascial pull/drag (may be completed prior to conducting your abdominal palpatory exam)
+
+## C (Circulation)
+
+Consider adequate vascular/lymphatic flow to the stomach and esophagus, which may be treated by addressing the
+
+■ Diaphragm
+
+■ Thoracic inlet
+
+## S (Screening)
+
+Don’t forget to look at your patient as a whole
+
+■ History of trauma- can impact any of the ABC’s leading to symptoms
+
+■ Zink screen- fascial restriction can lead to poor lymphatic/vascular movement and potentially limit biomechanical motion of organs
+
+■ Mind, body, spirit connection (life stressors, mood). Stress and mood can play a big role in GERD, IBS, or other GI symptoms.
+
+■ Behavioral contributions (diet, lifestyle, exercise, sleep, drugs/EtOH) as lifestyle choices can have a big impact on symptoms
+
+# Osteopathic Considerations Treatment GI COAR
+
+### Chapman Points
+
+![[Pasted image 20260207151342.png]]
+
+**Esophagus**:
+
+- Anterior: 2nd rib interspace
+- Posterior: between the SP and TP of T2
+
+**Upper lung**
+
+- Anterior: 3rd rib interspace
+- Posterior: Between T3/4 TPs and B/W SPs and TPs of T3/T4
+
+**Lower lung**
+
+- Anterior: 4th rib interspace
+- Posterior: between SPs and TPS of T4-T5
+
+**Heart**
+
+- Anterior: 2nd rib interspace
+- Posterior: between SP and TP of T3
+
+**Small intestine**
+
+- Anterior: intercostal spaces at costochondral junction b/w ribs 8-9, 9-10, 10-11
+- Posterior: between SP and TP of T8, T9, T10
+
+**Large intestine**
+
+- Anterior: mid-thigh in the TIB from greater trochanter to just above the knee
+- Posterior: triangular region with corners at TP of L2, TP of L4 and iliac crest
+
+**Appendix**
+
+- Anterior: tip of the 12th rib
+- Posterior: at the TP of T11
+
+**Pancreas**
+
+- Anterior: right 7th rib interspace
+- Posterior: between TP of T7-T8; between SP and TP of T7-T8 on the right
+
+**Liver/gallbladder**
+
+- Anterior: right 5th/6th rib interspace
+- Posterior: between the SP and TP of T6-T7 on the right
+
+### Fascial Pull\Fascial Drag
+
+After abdominal auscultation and prior to superficial and deep palpation, place your hand gently on the abdomen, fingers pointing cephalad.  Feel where your hand is pulled to:
+
+- Superior or inferior
+- Left or right
+- Pulling toward any particular organ
+
+Can induce motion in superior/inferior/left/right/CW/CCW motions
+
+### Paraspinal Inhibition
+
+You may treat the viscerosomatic reflexes related to GERD/esophageal and stomach disorders via paraspinal inhibition
+
+Possible Clinical Indications: back pain, GERD, ileus, viscersomatic reflexes 
+
+Possible TART Findings/Diagnosis: Rt/Lt/Bilateral hypertonicity of paraspinal muscles in the thoracic or lumbar area
+
+Example Diagnosis: Left lumbar paraspinal muscle hypertonicity
+
+Patient Position: Supine
+
+Physician Position: Seated on either side of the table
+
+Treatment:
+
+1. With both palms up, the physician’s hands are placed so that the patient’s spinous processes are between the physician’s fingertips and hypothenar/thenar eminences
+2. With anterior pressure, using a fulcrum by pressing against the table through the forearms, inhibition is induced through the paraspinal tissues. The pressure can be increased by increasing the tension in the hand/fist.
+3. Fingertips and thenar eminences are brought together. (If hands are too small, the physician can inhibit on the ipsilateral side or perform anterior inhibitory pressure with increasing tension through the hand.)
+4. The physician holds the inhibitory pressure until a change in tissue tensions is appreciated.
+5. Reassess
+
+### BLT Release of Lower Esophageal Sphincter/Crus of the Diaphragm
+
+Possible Clinical Indications: GERD/Esophageal/Stomach disorders
+
+Possible TART Findings/Diagnosis: Rt/Lt/Bilateral paraspinal hypertonicity, Rt/Lt/Bilateral 12th Rib inhaled/exhaled
+
+Example Diagnosis: Rt Rib 12 inhaled
+
+Patient Position: Supine
+
+Physician Position: Seated at the patient’s Rt side (ipsilateral to the dysfunction)
+
+Treatment:
+
+1. The physician places one hand under the patient’s back to establish contact with the right 12th rib (contact/palpation hand)
+2. The physician’s other hand is placed beneath the contact hand (action hand). The physician now assesses motion at the right 12th rib by lifting anteriorly and providing a lateral traction at a vector between 90◦ from the spine towards the right ASIS along the long axis of the rib
+3. The physician then established a balanced ligamentous tension (BLT) between the articulation of the rib and the corresponding vertebra, arcuate ligaments and the right/left crus of the diaphragm
+4. The physician fine tunes to maintain the balanced tension and monitors until a release is felt
+5. Reassess
+
+![[Pasted image 20260207151409.png]]
+![[Pasted image 20260207151417.png]]
+![[Pasted image 20260207151432.png]]
+![[Pasted image 20260207151441.png]]
+### Still Technique for the Esophagus – Direct – Long Lever
+
+Possible Clinical Indications: GERD/Esophageal/Stomach disorders
+
+Possible TART Findings/Diagnosis: Inhaled Stomach, fascial pull/drag restriction
+
+Example Diagnosis: Inhaled Stomach, Esophageal restriction
+
+Patient Position: Right lateral recumbent
+
+Physician Position: Standing behind the patient
+
+Treatment:
+
+1. The physician contacts the lesser curvature of the stomach, palpating for superior tension on the esophagus via this contact
+2. The physician then provides a traction inferiorly and laterally to engage the esophagus (tension is felt cephalad from the esophagus)
+3. The physician takes up any slack in the tissues with each exhalation breath
+4. The physician progressively increases tension from above by having the patient slowly extend their head and neck
+5. The physician continues to monitor until they can feel a release (change in the cephalad tension on the esophagus)
+6. Reassess
+
+![[Pasted image 20260207151452.png]]
+
+
+Question 1
+
+
+**Where would you screen for Anterior Chapman’s points that may be related to the following organs? (some answers may be used more than once)**
+
+Esophagus
+
+               Anterior: 2nd intercostal space             
+
+Upper Lung
+
+               Anterior: 3rd intercostal space             
+
+Lower Lung
+
+               Anterior: 4th intercostal space             
+
+Heart
+
+               Anterior: 2nd rib interspace             
+
+Small Intestine
+
+               Anterior: Intercostal spaces at costochondral junctions of 8-11             
+
+Appendix
+
+               Anterior: tip of the 12th rib             
+
+Pancreas
+
+               Anterior: Right 7th intercostal space             
+
+Liver
+
+               Anterior: Right 5th intercostal space             
+
+Question 2
+
+0.75 / 1 pts
+
+**Where would you screen for Posterior Chapman’s points that may be related to the following organs?** 
+
+Esophagus
+
+               Posterior: Between the SP and TP of T2             
+
+Upper Lung
+
+               Posterior: Between the TP of T3-T4             
+
+Lower Lung
+
+               Posterior: Between the SP and TP of T4-T5             
+
+Heart
+
+               Posterior: Between the SP and TP of T3             
+
+Small Intestine
+
+               Posterior: Between the SP and TP of T8, T9, T10             
+
+Appendix
+
+               Posterior: At the TP of T11             
+
+Pancreas
+Posterior: Between TP of T7-T8
+
+Liver
+Posterior: Between the SP and TP of T6-T7 on the right
+
+# Osteopathic Research GI COAR
+
+- Branyon, B. (2008).   [Healing Hands: Using Osteopathic Manipulative Treatment to Address Visceral Structures through Somatovisceral Reflexes: A Case Study in Gastroesophageal Reflux Disease.Links to an external site.](https://ostemed-dr.contentdm.oclc.org/digital/collection/myfirst/id/10162/rec/11) _AAO Journal_, _18_(2).
+- Diniz, Leonardo Rios, Nesi, Jacson, Curi, Ana Christina and Martins, Wagner. "Qualitative Evaluation of Osteopathic Manipulative Therapy in a Patient With Gastroesophageal Reflux Disease: A Brief Report" _Journal of Osteopathic Medicine_, vol. 114, no. 3, 2014, pp. 180-188. [https://doi.org/10.7556/jaoa.2014.036Links to an external site.](https://doi.org/10.7556/jaoa.2014.036)
+- Mirocha NJ Parker JD . Successful treatment of refractory functional dyspepsia with osteopathic manipulative treatment: a case report. _Osteopath Fam Phys_. 2012;4(6):193-196. doi:10.1016/j.osfp.2012.01.003.[1016/j.osfp.2012.01.003Links to an external site.](https://doi.org/10.1016/j.osfp.2012.01.003)
+- Smilowicz A . [An osteopathic approach to gastrointestinal disease: somatic clues for diagnosis and clinical challenges associated with Helicobacter pylori antibiotic resistance. Links to an external site.](https://www.degruyter.com/document/doi/10.7556/jaoa.2013.113.5.404/html)_J Am Osteopath Assoc._ 2013;113(5):404-416.
+- da Silva RCV de Sá CC Pascual-Vaca ÁO et al.. Increase of lower esophageal sphincter pressure after osteopathic intervention on the diaphragm in patients with gastroesophageal reflux. _Dis Esophagus_. 2012;26(5):451-456. doi:10.1111/j.1442-2050.2012.01372.x. [ArticleLinks to an external site.](https://pubmed.ncbi.nlm.nih.gov/22676647/ "Link")
+
+# Citations GI COAR
+
+## **Works Cited** 
+
+Aziz, Q., Fass, R., Gyawali, C. P., Miwa, H., Pandolfino, J. E., & Zerbib, F. (2016). _Esophageal disorders._ _Gastroenterology, 150_(6), 1368–1379. https://doi.org/10.1053/j.gastro.2016.02.012
+
+Branon, B. (2008). _Healing hands: Using osteopathic manipulative treatment to address visceral structures through somatovisceral reflexes—A case study in gastroesophageal reflux disease._ OSTMED.DR. [https://ostemed-dr.contentdm.oclc.org/digital/collection/myfirst/id/10162/rec/11Links to an external site.](https://ostemed-dr.contentdm.oclc.org/digital/collection/myfirst/id/10162/rec/11?utm_source=chatgpt.com)
+
+Diniz, L. R., Nesi, J., Curi, A. C., & Martins, W. (2014). _Qualitative evaluation of osteopathic manipulative therapy in a patient with gastroesophageal reflux disease: A brief report._ _Journal of the American Osteopathic Association, 114_(3), 180–188. https://doi.org/10.7556/jaoa.2014.036
+
+Frazzoni, L., Frazzoni, M., de Bortoli, N., Tolone, S., Martinucci, I., Fuccio, L., & Savarino, E. (2018). _Critical appraisal of Rome IV criteria: Hypersensitive esophagus does belong to gastroesophageal reflux disease spectrum._ _Annals of Gastroenterology, 31_(1), 1–7. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5759602/Links to an external site.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5759602/)
+
+Gastroenterology Advisor. (2019). _Routine esophagogastroduodenoscopy has little impact on GERD management._ Retrieved December 12, 2025, from [https://www.gastroenterologyadvisor.com/news/routine-esophagogastroduodenoscopy-has-little-impact-on-gerd-management/Links to an external site.](https://www.gastroenterologyadvisor.com/news/routine-esophagogastroduodenoscopy-has-little-impact-on-gerd-management/?utm_source=chatgpt.com)
+
+Katz, P. O., Dunbar, K. B., Schnoll‑Sussman, F. H., Greer, K. B., Yadlapati, R., & Spechler, S. J. (2022). _ACG clinical guideline for the diagnosis and management of gastroesophageal reflux disease._ _The American Journal of Gastroenterology, 117_(1), 27–56. [https://doi.org/10.14309/ajg.0000000000001538Links to an external site.](https://doi.org/10.14309/ajg.0000000000001538)
+
+Loganathan, P., Gajendran, M., Perisetti, A., Goyal, H., Mann, R., Wright, R., Saligram, S., Thosani, N., & Umapathy, C. (2024). _Endoscopic advances in the diagnosis and management of gastroesophageal reflux disease._ _Medicina, 60_(7), 1120. [https://doi.org/10.3390/medicina60071120Links to an external site.](https://doi.org/10.3390/medicina60071120)
+
+Longstreth, G. F., & Lacy, B. E. (2025). _Approach to the adult with dyspepsia._ UpToDate. Retrieved December 12, 2025, from [https://www.uptodate.com/contents/approach-to-the-adult-with-dyspepsia?sectionName=INITIAL+EVALUATION&topicRef=6862&anchor=H75708801&source=see_link#H75708801Links to an external site.](https://www.uptodate.com/contents/approach-to-the-adult-with-dyspepsia?sectionName=INITIAL+EVALUATION&topicRef=6862&anchor=H75708801&source=see_link#H75708801)
+
+Mirocha, N. J., & Parker, J. D. (2012). _Successful treatment of refractory functional dyspepsia with osteopathic manipulative treatment._ _Osteopathic Family Physician, 4_(6), 193–196. [https://www.sciencedirect.com/science/article/pii/S1877573X12000366?via%3DihubLinks to an external site.](https://www.sciencedirect.com/science/article/pii/S1877573X12000366?via%3Dihub)
+
+Pierce-Talsma, S., Talsma, J., Allen, G., Wong, T., Lin, A., Pena, N., Wolf, K., & Lentz, A. (2025). _Gastrointestinal COAR Workbook I & Workbook II._ Touro University California.
+
+RadiologyKey. (2019). _Barium studies: Single and double contrast._ Retrieved December 12, 2025, from [https://radiologykey.com/barium-studies-single-and-double-contrast/Links to an external site.](https://radiologykey.com/barium-studies-single-and-double-contrast/?utm_source=chatgpt.com)
+
+Sawada, A., Sifrim, D., & Fujiwara, Y. (2023). _Esophageal reflux hypersensitivity: A comprehensive review._ _Gut and Liver, 17_(6), 831–842. https://doi.org/10.5009/gnl220373
+
+Smilowicz, A. (2013). _An osteopathic approach to gastrointestinal disease: Somatic clues for diagnosis and clinical challenges associated with Helicobacter pylori antibiotic resistance._ _Journal of the American Osteopathic Association, 113_(5), 404–412. https://doi.org/10.7556/jaoa.2013.113.5.404
+
+da Silva, R. C., de Sá, C. C., Pascual‑Vaca, Á. O., de Souza Fontes, L. H., Herbella Fernandes, F. A. M., Dib, R. A., Blanco, C. R., Queiroz, R. A., & Navarro‑Rodriguez, T. (2013). _Increase of lower esophageal sphincter pressure after osteopathic intervention on the diaphragm in patients with gastroesophageal reflux._ _Diseases of the Esophagus, 26_(5), 451–456. https://doi.org/10.1111/j.1442‑2050.2012.01372.x
+
+Loganathan, P., Gajendran, M., Perisetti, A., Goyal, H., Mann, R., Wright, R., Saligram, S., Thosani, N., & Umapathy, C. (2024). _Endoscopic advances in the diagnosis and management of gastroesophageal reflux disease._ _Medicina, 60_(7), 1120. [https://doi.org/10.3390/medicina60071120Links to an external site.](https://doi.org/10.3390/medicina60071120)
+
+Yadlapati, R., & DeLay, K. (2018). _PPI‑refractory gastroesophageal reflux disease._ _Medical Clinics of North America, 103_(1), 15–27. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6260943/
+
+Yamasaki, T., & Fass, R. (2017). _Reflux hypersensitivity: A new functional esophageal disorder._ _Journal of Neurogastroenterology and Motility, 23_(4), 555–562. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628981/
+
+Yarandi, S. S., & Rao, S. S. C. (2013). _Functional dyspepsia in review: Pathophysiology and clinical implications._ _Journal of Gastroenterology and Hepatology, 28_(Suppl 4), 8–15. [https://pmc.ncbi.nlm.nih.gov/articles/PMC4080874/Links to an external site.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4080874/)
+
+Young, A., Kumar, M. A., & Thota, P. N. (2020). _GERD: A practical approach._ _Cleveland Clinic Journal of Medicine, 87_(4), 223–230. https://doi.org/10.3949/ccjm.87a.19114
